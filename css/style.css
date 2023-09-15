@@ -1,0 +1,18 @@
+.center {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 50%;
+  text-align: center;
+}
+.center h1 {
+  font-family: "montserrat";
+  color: #6e6e6e;
+}
+.input {
+  background-color: #ffc09e;
+  padding: 24px;
+  border-radius: 8px;
+  text-align: start;
+}
