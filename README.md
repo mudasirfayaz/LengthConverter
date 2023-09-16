@@ -13,8 +13,8 @@ Site: https://mudasirfayaz.github.io/LengthConverter/
 
 <h1>Usage</h1>
 <ol>
-  <li>Clone the repository to your local machine.<br />git clone https://github.com/mudasir-fayaz/LengthConverter.git</li><br />
-  <li>Navigate to the project directory.<br /> <span>cd length-converter</span></li><br />
+  <li>Clone the repository to your local machine.<br />git clone https://github.com/mudasirfayaz/LengthConverter.git</li><br />
+  <li>Navigate to the project directory.<br /> <span>cd LengthConverter</span></li><br />
   <li>Open the index.html file in your web browser.</li><br />
   <li>Enter a value in either the "Kilometers (km)" or "Miles (mi)" input field.</li><br />
   <li>The corresponding value will automatically appear in the other input field, showing the converted length.</li><br />
